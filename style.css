@@ -10,8 +10,7 @@
      	font-size: 12px;
      }
     .fruits-veg{
-		p {background-image: url('Fruits-and-Vegetables.jpg');
-		}
+		background-image: url('Fruits-and-Vegetables.jpg');
 		text-align: center;
 	 	font-weight: bold;
     	color: black;
