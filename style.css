@@ -11,6 +11,7 @@
   		background-size: 100% 100%;
      }
     .fruits-veg{
+		background-image : url("Fruits and Vegetables.jpg" alt="Fruits and Vegetables" width="500" height="300");
 		text-align: center;
 	 	font-weight: bold;
     	color: black;
