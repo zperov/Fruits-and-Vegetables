@@ -5,7 +5,7 @@
     	border: 4px solid black;
      	font-family: Calibri,sans-serif;
      	font-size: 12px;
-		background-image: url('Fruits and Vegetables.jpg');
+		background-image= url("Fruits and Vegetables.jpg" alt="Fruits and Vegetables" width="500" height="300");
 		background-repeat: no-repeat;
   		background-attachment: fixed;
   		background-size: 100% 100%;
