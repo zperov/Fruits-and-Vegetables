@@ -10,11 +10,11 @@
   		background-attachment: fixed;
   		background-size: 100% 100%;
 	}
-	table, th, td{
+	table, td{
   			border: 1px solid black;
   			border-collapse: collapse;
 		}
-	th, td{
+	td{
   			padding-top: 20px;
   			padding-bottom: 20px;
   			padding-left: 30px;
