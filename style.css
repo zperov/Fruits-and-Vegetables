@@ -10,15 +10,7 @@
   		background-attachment: fixed;
   		background-size: 100% 100%;
 	}
-	table, th, td {
-  			border: 1px solid black; 
-    		border-collapse: collapse;
-	}
-	th, td {
-    padding: 8px; 
-    text-align: center; 
-	}
-    .fruits-veg{
+	.fruits-veg{
 		text-align: center;
 	 	font-weight: bold;
     	color: black;
