@@ -9,6 +9,16 @@
 		background-repeat: no-repeat;
   		background-attachment: fixed;
   		background-size: 100% 100%;
+		table, th, td {
+  			border: 1px solid black;
+  			border-collapse: collapse;
+		}
+		th, td {
+  			padding-top: 20px;
+  			padding-bottom: 20px;
+  			padding-left: 30px;
+  			padding-right: 30px;
+		}
      }
     .fruits-veg{
 		text-align: center;
