@@ -10,14 +10,14 @@
   		background-attachment: fixed;
   		background-size: 100% 100%;
 	}
-	table,
-	td{
-  			padding-top: 20px;
-  			padding-bottom: 20px;
-  			padding-left: 30px;
-  			padding-right: 30px;
+	table, th, td {
+  			border: 1px solid black; 
+    		border-collapse: collapse;
 	}
-
+	th, td {
+    padding: 8px; 
+    text-align: center; 
+	}
     .fruits-veg{
 		text-align: center;
 	 	font-weight: bold;
